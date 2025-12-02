@@ -1,0 +1,24 @@
+user_id,item_id,event_type,watch_seconds,timestamp,title,content_type,genre,engagement_score
+u1,i194,complete,3012,2025-02-12T14:28:00,Reply 1988 S3E8,series,family,9036.0
+u1,i100,like,2518,2025-02-09T21:26:00,Vincenzo S2E3,series,thriller,6295.0
+u1,i177,like,1614,2025-01-22T20:44:00,Doraemon S3E3,tv,kids,4035.0
+u1,i44,play,3391,2025-01-18T23:40:00,SpongeBob SquarePants,tv,kids,3391.0
+u1,i77,play,3338,2025-01-09T22:01:00,La La Land Part 4,movie,romance,3338.0
+u1,i159,play,2828,2025-02-02T10:11:00,Koala Kumal Part 4,movie,romance,2828.0
+u1,i82,play,2710,2025-01-08T15:40:00,SpongeBob SquarePants S1E4,tv,kids,2710.0
+u1,i155,play,2103,2025-02-22T00:06:00,Hometown Cha-Cha-Cha S1E2,series,romance,2103.0
+u1,i50,play,1844,2025-01-06T22:15:00,Hotel Transylvania,movie,family,1844.0
+u1,i72,like,632,2025-01-16T21:24:00,Kontrakan Sebelah,microdrama,comedy,1580.0
+u1,i185,complete,295,2025-01-06T07:55:00,Adit & Sopo Jarwo S3E12,tv,kids,885.0
+u1,i49,play,663,2025-01-08T03:04:00,The Incredibles,movie,family,663.0
+u1,i241,play,650,2025-02-08T09:18:00,Captain America: Civil War Part 4,movie,action,650.0
+u1,i124,play,555,2025-01-28T16:22:00,Blue Lock S1E11,series,anime,555.0
+u1,i118,save,161,2025-01-04T00:53:00,The Dark Knight Part 2,movie,action,322.0
+u1,i74,save,152,2025-02-25T15:52:00,Diary Pacar Ghosting,microdrama,romance,304.0
+u1,i76,play,279,2025-01-15T19:33:00,The Bourne Ultimatum Part 3,movie,thriller,279.0
+u1,i229,play,235,2025-02-04T21:51:00,Chernobyl S2E14,series,thriller,235.0
+u1,i66,pause,293,2025-02-17T04:27:00,Dragon Ball Super,series,anime,146.5
+u1,i43,pause,110,2025-01-21T17:18:00,Shinchan,tv,kids,55.0
+u1,i37,pause,77,2025-02-26T14:06:00,Money Heist,series,thriller,38.5
+u1,i139,skip,33,2025-01-07T22:49:00,One Piece S3E18,series,anime,3.3000000000000003
+u1,i175,skip,27,2025-02-01T03:59:00,Reply 1988 S2E15,series,family,2.7

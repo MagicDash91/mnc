@@ -1,0 +1,8 @@
+user_id,item_id,event_type,watch_seconds,timestamp,title,content_type,genre,engagement_score
+u1,i77,play,3338,2025-01-09T22:01:00,La La Land Part 4,movie,romance,3338.0
+u1,i159,play,2828,2025-02-02T10:11:00,Koala Kumal Part 4,movie,romance,2828.0
+u1,i50,play,1844,2025-01-06T22:15:00,Hotel Transylvania,movie,family,1844.0
+u1,i49,play,663,2025-01-08T03:04:00,The Incredibles,movie,family,663.0
+u1,i241,play,650,2025-02-08T09:18:00,Captain America: Civil War Part 4,movie,action,650.0
+u1,i118,save,161,2025-01-04T00:53:00,The Dark Knight Part 2,movie,action,322.0
+u1,i76,play,279,2025-01-15T19:33:00,The Bourne Ultimatum Part 3,movie,thriller,279.0
